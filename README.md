@@ -23,3 +23,13 @@ The dashboard explores revenue trends, product performance, regional results, sa
 ## Technologies
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)![Power Query](https://img.shields.io/badge/Power_Query-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
+## Screenshot
+<img width="535.0" height="335.8" alt="image1" src="https://github.com/user-attachments/assets/0322acf8-0b62-45f3-9d3b-9bfab03edb87" />
+<img width="535.0" height="335.8" alt="image2" src="https://github.com/user-attachments/assets/b6ac32ed-61a6-41f8-bfa2-6d6a548e126d" />
+<img width="535.0" height="335.8" alt="image3" src="https://github.com/user-attachments/assets/5f584d35-bd44-4f66-9b40-9aedfe577609" />
+
+
+
+
+
+
